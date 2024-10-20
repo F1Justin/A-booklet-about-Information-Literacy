@@ -1,0 +1,36 @@
+\contentsline {section}{前言}{3}{section*.2}%
+\contentsline {section}{邮箱准备}{3}{section*.3}%
+\contentsline {section}{\numberline {1}信息源的选择}{4}{section.1}%
+\contentsline {section}{\numberline {2}Scientific上网}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}1.1.1.1}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}代理供应商\&代理软件}{5}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}安装代理软件}{6}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}选择一个（或多个）机场}{6}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}配置代理软件}{7}{subsubsection.2.2.3}%
+\contentsline {section}{\numberline {3}\textsf {Google}与\textsf {Github}帐号准备}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}为什么需要准备这两个帐号}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}如何注册\textsf {Google}和\textsf {GitHub}帐号}{9}{subsection.3.2}%
+\contentsline {section}{\numberline {4}在线语言模型的使用}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}\textsf {ChatGPT}}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}\textsf {Claude}}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}\textsf {Gemini}}{12}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}其他模型}{13}{subsection.4.4}%
+\contentsline {section}{\numberline {5}AI工具的使用}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1}AI搜索工具}{14}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}代码专精型搜索工具}{14}{subsubsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.2}AI驱动的代码编辑器}{14}{subsection.5.2}%
+\contentsline {section}{\numberline {6}模型的API调用方法}{14}{section.6}%
+\contentsline {subsection}{\numberline {6.1}API供应商}{15}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}API的使用方法}{15}{subsection.6.2}%
+\contentsline {section}{\numberline {7}在本地运行语言模型}{15}{section.7}%
+\contentsline {subsection}{\numberline {7.1}模型知识科普}{15}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}\textsf {Ollama}}{16}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}其他本地运行模型的方法}{16}{subsection.7.3}%
+\contentsline {section}{\numberline {8}一些实用技巧}{17}{section.8}%
+\contentsline {subsection}{\numberline {8.1}接码平台}{17}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}虚拟信用卡}{17}{subsection.8.2}%
+\contentsline {section}{\numberline {9}Scientific 上网（其二）}{17}{section.9}%
+\contentsline {subsection}{\numberline {9.1}\textsf {Android}端}{17}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}\textsf {iOS}端}{18}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}给你的路由器装上代理}{18}{subsection.9.3}%
+\contentsline {section}{\numberline {10}推荐的工具}{18}{section.10}%

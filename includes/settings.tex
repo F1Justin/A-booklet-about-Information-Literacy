@@ -1,0 +1,28 @@
+\setcounter{tocdepth}{2} 
+\newcommand{\roundedbox}[2][orange]{%
+  \begin{tcolorbox}[
+    colback=white,
+    colframe=#1,
+    arc=3.5mm,
+    boxrule=0.5pt,
+    valign=center,
+    top=2pt,
+    bottom=2pt,
+    left=6pt,
+    right=6pt
+  ]
+    #2
+  \end{tcolorbox}%
+}
+
+\let\oldquote\quote
+\let\endoldquote\endquote
+\renewenvironment{quote}[2][]
+  {\if\relax\detokenize{#1}\relax
+     \def\quoteauthor{#2}%
+   \else
+     \def\quoteauthor{#2~---~#1}%
+   \fi
+   \oldquote}
+  {\par\nobreak\smallskip\hfill(\quoteauthor)%
+   \endoldquote\addvspace{\bigskipamount}}
